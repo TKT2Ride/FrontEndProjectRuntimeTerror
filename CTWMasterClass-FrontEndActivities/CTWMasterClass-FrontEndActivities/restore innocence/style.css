@@ -3,27 +3,27 @@
 .majorHeading {
     font-family: Georgia;
     font-weight: bold;
-    color: black;
+    color: #545AA7;
     font-size: xx-large;
 }
 
 .minorHeading {
     font-family: Georgia;
     font-weight: bold;
-    color: white;
+    color: #4B61D1;
     font-size: x-large;
 }
 
 .generalText {
     font-family: Georgia;
-    color: #b5d5d2;
+    color: black;
     font-size: medium;
 }
 
 .buttonFormatting {
     background-color: #FF9933;
     border: 2px solid black;
-    color: #b5d5d2;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -37,7 +37,7 @@
 
     .buttonFormatting:hover {
         background-color: #FFD1A3;
-        color: #557A95;
+        color: black;
     }
 
 
