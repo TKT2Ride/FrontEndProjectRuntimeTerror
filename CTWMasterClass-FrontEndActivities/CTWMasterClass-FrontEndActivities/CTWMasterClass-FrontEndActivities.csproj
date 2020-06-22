@@ -160,11 +160,11 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators4.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
-    <Content Include="restore innocence\home.html" />
-    <Content Include="restore innocence\donate.html" />
     <Content Include="restore innocence\contact.html" />
-    <Content Include="restore innocence\script.js" />
+    <Content Include="restore innocence\donate.html" />
+    <Content Include="restore innocence\home.html" />
     <Content Include="restore innocence\mission.html" />
+    <Content Include="restore innocence\script.js" />
     <Content Include="restore innocence\style.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
